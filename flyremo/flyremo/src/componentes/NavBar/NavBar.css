@@ -7,13 +7,23 @@ header {
 
 .logo-titulo {
   display: flex;
+  text-align: center;
 }
+
 .foto-logo {
-  width: 5rem;
-  height: 5rem;
+  width: 4.5rem;
+  height: 4.5rem;
+  border-radius: 5rem;
+  margin-right: 0.5rem;
 }
 li {
   display: inline-block;
   gap: 1rem;
   padding: 1rem;
+}
+
+@media (max-width: 580px) {
+  .foto-logo {
+    display: none;
+  }
 }

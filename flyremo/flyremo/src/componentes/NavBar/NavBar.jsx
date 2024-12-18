@@ -11,9 +11,9 @@ const NavBar = () => {
             src="./public/foto-logo.jpg"
             alt="iamgen del logo de la página"
           />
-          <h1>FlyRemo</h1>
+          <h1 className="titulo-huno">FlyRemo</h1>
         </div>
-        <nav>
+        <nav className="nav-header">
           <ul>
             <li>Destinos</li>
             <li>Experiencias</li>
