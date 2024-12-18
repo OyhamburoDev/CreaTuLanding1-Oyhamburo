@@ -5,7 +5,14 @@ const NavBar = () => {
   return (
     <>
       <header>
-        <h1>FlyRemo</h1>
+        <div className="logo-titulo">
+          <img
+            className="foto-logo"
+            src="./public/foto-logo.jpg"
+            alt="iamgen del logo de la página"
+          />
+          <h1>FlyRemo</h1>
+        </div>
         <nav>
           <ul>
             <li>Destinos</li>
