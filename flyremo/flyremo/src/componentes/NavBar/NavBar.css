@@ -1,25 +1,51 @@
 header {
   display: flex;
   align-items: center;
+  flex-direction: row;
   justify-content: space-around;
   border-bottom: 1px solid black;
+  background-color: rgba(245, 245, 245, 255);
 }
 
 .logo-titulo {
   display: flex;
-  text-align: center;
+  flex-direction: row;
+  align-items: center;
 }
 
 .foto-logo {
-  width: 4.5rem;
-  height: 4.5rem;
+  width: 4rem;
+  height: 4rem;
   border-radius: 5rem;
   margin-right: 0.5rem;
 }
+
+.titulo-navbar {
+  font-size: 1.9rem;
+  margin: 0; /* Para evitar que el h1 tenga márgenes que desajusten la alineación */
+}
+
 li {
   display: inline-block;
   gap: 1rem;
   padding: 1rem;
+}
+
+.link-home {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+.link-home:hover {
+  text-decoration: underline;
+}
+
+.link-categorias {
+  cursor: pointer;
+}
+
+.link-categorias:hover {
+  text-decoration: underline;
 }
 
 @media (max-width: 580px) {

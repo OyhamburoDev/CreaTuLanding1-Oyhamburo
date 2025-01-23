@@ -1,0 +1,29 @@
+.cnt-item {
+  background-color: rgba(51, 83, 62, 255);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.img-item {
+  width: 20rem;
+  height: 20rem;
+}
+.title-item {
+  margin: 0px;
+  padding: 0.5rem;
+  color: #fff;
+}
+.price-item {
+  margin: 0px;
+  padding: 0.5rem;
+  padding-top: 0px;
+  color: #fff;
+}
+
+.link-item {
+  margin: 0px;
+  padding: 0.5rem;
+  padding-top: 0px;
+  text-decoration: none;
+  color: #fff;
+}

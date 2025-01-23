@@ -1,0 +1,32 @@
+.cnt-item-detail {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  background-color: black;
+  margin-top: 5rem;
+}
+
+.cnt-img {
+}
+
+.img-item-detail {
+  padding-right: 1rem;
+}
+
+.cnt-title-price {
+  padding: 0.5rem;
+}
+.title-item-detail {
+  font-size: 1.5rem;
+  color: white;
+}
+
+.price-item-detail {
+  font-size: 1.2rem;
+  color: white;
+}
+
+.p-item-detail {
+  font-size: 1rem;
+  color: white;
+}
