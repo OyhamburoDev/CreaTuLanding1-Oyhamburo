@@ -10,4 +10,4 @@
 🔗 **Enlace al GIF demostrativo**:
 ![Demostración del proyecto](https://github.com/OyhamburoDev/CreaTuLanding1-Oyhamburo/blob/ee974eb0614a9075364f4ec7a5dd787769b0b7fe/gif.grande-ezgif.com-optimize.gif)
 
-¡Gracias por ver mi proyecto! 🎉
+¡Gracias por ver mi proyecto! 
