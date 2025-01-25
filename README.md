@@ -1,2 +1,1 @@
-
-[![Video de Presentación](https://img.youtube.com/vi/[ID DEL VIDEO]/0.jpg)](https://github.com/OyhamburoDev/CreaTuLanding1-Oyhamburo/blob/6d51c38a162d563f61dc799f8f745dd055ea2148/presentacion.mp4.mp4)
+![image alt](https://github.com/OyhamburoDev/CreaTuLanding1-Oyhamburo/blob/6ed2188c4178d2951b157c32c91c2f2d502db716/Vite%20%2B%20React%20-%20Google%20Chrome%202025-01-25%2013-05-13.gif =600x)
