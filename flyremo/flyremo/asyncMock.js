@@ -7,7 +7,7 @@ const productos = [
     title: "Remera",
     descripcion: "uasnfkjdnaskldnas",
     price: 1000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=1",
     categoria: 1
 },
 
@@ -16,7 +16,7 @@ const productos = [
     title: "Gorra",
     descripcion: "uasnfkjdnaskldnas",
     price: 2000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=2",
     categoria: 2
 },
 
@@ -25,7 +25,7 @@ const productos = [
     title: "Short", 
     descripcion: "uasnfkjdnaskldnas",
     price: 8000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=3",
     categoria: 3
 },
 {
@@ -33,7 +33,7 @@ const productos = [
     title: "Jean", 
     descripcion: "uasnfkjdnaskldnas",
     price: 8000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=4",
     categoria: 4
 },
 {
@@ -41,7 +41,7 @@ const productos = [
     title: "Calzado", 
     descripcion: "uasnfkjdnaskldnas",
     price: 8000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=5",
     categoria: 5
 },
 {
@@ -49,7 +49,7 @@ const productos = [
     title: "Remera Clasica",
     descripcion: "uasnfkjdnaskldnas",
     price: 1000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=6",
     categoria: 1
 },
 
@@ -58,7 +58,7 @@ const productos = [
     title: "Gorra Retro",
     descripcion: "uasnfkjdnaskldnas",
     price: 2000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=7",
     categoria: 2
 },
 
@@ -67,7 +67,7 @@ const productos = [
     title: "Short Oversize", 
     descripcion: "uasnfkjdnaskldnas",
     price: 8000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=8",
     categoria: 3
 },
 {
@@ -75,7 +75,7 @@ const productos = [
     title: "Jean total Black", 
     descripcion: "uasnfkjdnaskldnas",
     price: 8000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=9",
     categoria: 4
 },
 {
@@ -83,7 +83,7 @@ const productos = [
     title: "Calzado Nike", 
     descripcion: "uasnfkjdnaskldnas",
     price: 8000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=10",
     categoria: 5
 },
 {
@@ -91,7 +91,7 @@ const productos = [
     title: "Ojotas", 
     descripcion: "uasnfkjdnaskldnas",
     price: 8000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=11",
     categoria: 5
 },
 {
@@ -99,7 +99,7 @@ const productos = [
     title: "Remera Oversize",
     descripcion: "uasnfkjdnaskldnas",
     price: 1000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=12",
     categoria: 1
 },
 
@@ -108,7 +108,7 @@ const productos = [
     title: "Gorra new era",
     descripcion: "uasnfkjdnaskldnas",
     price: 2000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=13",
     categoria: 2
 },
 
@@ -117,7 +117,7 @@ const productos = [
     title: "Short Skinny", 
     descripcion: "uasnfkjdnaskldnas",
     price: 8000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=14",
     categoria: 3
 },
 {
@@ -125,7 +125,7 @@ const productos = [
     title: "Jean total white", 
     descripcion: "uasnfkjdnaskldnas",
     price: 8000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=15",
     categoria: 4
 },
 {
@@ -133,7 +133,7 @@ const productos = [
     title: "Calzado Adidas", 
     descripcion: "uasnfkjdnaskldnas",
     price: 8000,
-    img: "https://picsum.photos/200/300",
+    img: "https://picsum.photos/200/300?random=16",
     categoria: 5
 },
 ]
